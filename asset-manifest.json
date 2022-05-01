@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rawg.betatest/static/css/main.f99ceb3a.chunk.css",
+    "main.js": "/rawg.betatest/static/js/main.8205eacc.chunk.js",
+    "main.js.map": "/rawg.betatest/static/js/main.8205eacc.chunk.js.map",
+    "runtime-main.js": "/rawg.betatest/static/js/runtime-main.b0717808.js",
+    "runtime-main.js.map": "/rawg.betatest/static/js/runtime-main.b0717808.js.map",
+    "static/js/2.14a449f5.chunk.js": "/rawg.betatest/static/js/2.14a449f5.chunk.js",
+    "static/js/2.14a449f5.chunk.js.map": "/rawg.betatest/static/js/2.14a449f5.chunk.js.map",
+    "index.html": "/rawg.betatest/index.html",
+    "static/css/main.f99ceb3a.chunk.css.map": "/rawg.betatest/static/css/main.f99ceb3a.chunk.css.map",
+    "static/js/2.14a449f5.chunk.js.LICENSE.txt": "/rawg.betatest/static/js/2.14a449f5.chunk.js.LICENSE.txt",
+    "static/media/Epic_Games_logo.svg.5be7536d.png": "/rawg.betatest/static/media/Epic_Games_logo.svg.5be7536d.png",
+    "static/media/Steam_Logo.c1f14e27.png": "/rawg.betatest/static/media/Steam_Logo.c1f14e27.png",
+    "static/media/pngwing.com.ca4ce25d.png": "/rawg.betatest/static/media/pngwing.com.ca4ce25d.png",
+    "static/media/ps.7d082417.png": "/rawg.betatest/static/media/ps.7d082417.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0717808.js",
+    "static/js/2.14a449f5.chunk.js",
+    "static/css/main.f99ceb3a.chunk.css",
+    "static/js/main.8205eacc.chunk.js"
+  ]
+}
